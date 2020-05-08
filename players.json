@@ -1,0 +1,32 @@
+{
+    "johndoe": {
+        "email": "johndoe@gmail.com",
+        "firstname": "John",
+        "lastname": "Doe",
+        "exclude": "janedoe"
+    },
+    "lukastepanovic": {
+        "email": "janedoe@gmail.com",
+        "firstname": "Jane",
+        "lastname": "Doe",
+        "exclude": "johndoe"
+    },
+    "randomFriend": {
+        "email": "randomFriend@gmail.com",
+        "firstname": "Random",
+        "lastname": "Friend",
+        "exclude": ""
+    },
+    "randomFriend2": {
+        "email": "randomFriend2@gmail.com",
+        "firstname": "Random2",
+        "lastname": "Friend2",
+        "exclude": ""
+    },
+    "randomFriend3": {
+        "email": "randomFriend3@gmail.com",
+        "firstname": "Random3",
+        "lastname": "Friend3",
+        "exclude": ""
+    }
+}

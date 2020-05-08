@@ -1,0 +1,21 @@
+{
+  "name": "secretsantajs",
+  "version": "1.0.0",
+  "description": "Gmail Secret santa sender in javascript",
+  "main": "mailCli.js",
+  "dependencies": {
+    "gmail-send": "^1.8.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "presents": "node mailCli.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "secretsanta",
+    "js",
+    "gmail"
+  ],
+  "author": "Nikola Dimic",
+  "license": "ISC"
+}
