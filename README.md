@@ -60,7 +60,7 @@ npm run presents
 
 ## :snowflake: Authors
 
-* **Nikola Dimić** -  [dimaria95](https://github.com/dimaria95/)
+* **Nikola Dimić** -  [d1mic](https://github.com/d1mic/)
 
 ## :snowflake: License
 
